@@ -1,4 +1,6 @@
 // This program is designed specifically to be run in the terminal
+
+// This top part allows the langs package to work because it doesn not support the import syntax
 import {createRequire} from "module";
 const require = createRequire(import.meta.url)
 const langs = require('langs');
