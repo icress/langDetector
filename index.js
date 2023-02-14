@@ -10,4 +10,3 @@ console.log(`It looks like the input language is most likely ${result.name}`)
 } catch (e) {
     console.log("It looks like it didn't work. Please try a larger sample size")
 }
-
