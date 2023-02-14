@@ -1,0 +1,16 @@
+{
+  "name": "langdetector",
+  "version": "1.0.0",
+  "description": "Used to identify languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "franc": "^6.1.0",
+    "langs": "^2.0.0"
+  },
+  "type": "module"
+}
